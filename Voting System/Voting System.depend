@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637756909 source:c:\users\click\desktop\new folder\voting system\main.c
+	<stdio.h>
+	<string.h>
+
